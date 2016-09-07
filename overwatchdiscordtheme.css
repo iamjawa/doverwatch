@@ -1,0 +1,10 @@
+//META{"name":"Doverwatch","description":"Overwatch-inspired Discord Theme.","author":"iamjawa","version":"1.0"}*//
+
+.app {
+  background-image: url(background.png);
+  background-size: cover;
+}
+
+.highlight {
+  color: #F99D1B;
+}
